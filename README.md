@@ -1,6 +1,10 @@
 # Sales-Performance-Dashboard
 This repository showcases a comprehensive Sales Performance Dashboard built using Tableau Public.
 
+<img width="777" height="604" alt="image" src="https://github.com/user-attachments/assets/62f04d5f-68b8-4201-91f8-327f61b2a31f" />
+
+
+
 **Project Goal**: To provide business stakeholders with an interactive "remote control" for monitoring key sales metrics, analyzing trends, and identifying top-performing areas and products from the Superstore dataset.
 
 **View the Live Interactive Dashboard:**
