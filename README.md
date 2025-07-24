@@ -4,9 +4,10 @@ This repository showcases a comprehensive Sales Performance Dashboard built usin
 **Project Goal:** To provide business stakeholders with an interactive "remote control" for monitoring key sales metrics, analyzing trends, and identifying top-performing areas and products from the Superstore dataset.
 
 **View the Live Interactive Dashboard:**
-https://public.tableau.com/shared/BDB2XKSS8?:display_count=n&:origin=viz_share_link
-Sales Performance Dashboard on Tableau Public
 
+https://public.tableau.com/app/profile/ashley.james8525/viz/SuperstoreSalesPerformanceDashboard_17533439049740/SalesPerformanceDashboard
+Sales Performance Dashboard on Tableau Public
+Sales Performance Dashboard on Tableau Public
 **Key Features**:
 
 **KPIs**: At-a-glance view of Total Sales, Total Profit, and Total Orders.
