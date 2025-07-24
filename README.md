@@ -6,8 +6,9 @@ This repository showcases a comprehensive Sales Performance Dashboard built usin
 **View the Live Interactive Dashboard:**
 
 https://public.tableau.com/app/profile/ashley.james8525/viz/SuperstoreSalesPerformanceDashboard_17533439049740/SalesPerformanceDashboard
+View the Live Interactive Dashboard:
 Sales Performance Dashboard on Tableau Public
-Sales Performance Dashboard on Tableau Public
+
 **Key Features**:
 
 **KPIs**: At-a-glance view of Total Sales, Total Profit, and Total Orders.
